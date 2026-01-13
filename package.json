@@ -1,5 +1,5 @@
 {
-  "name": "silent-wolf-bot",
+  "name": "Soccia-MD",
   "version": "2.0.0",
   "description": "A WhatsApp bot using Baileys with auto-restart prefix system",
   "keywords": [
@@ -19,7 +19,7 @@
     "url": "git+https://github.com/777Wolf-dot/Silent-Wolf--Bot.git"
   },
   "license": "MIT",
-  "author": "YourName",
+  "author": "Socciapøm",
   "type": "module",
   "main": "index.js",
   "directories": {
